@@ -1,6 +1,6 @@
 """
 Program: doctor.py
-Author: SamTj
+Author: Samuel Tijani
 Conducts an interactive session of nondirective psychotherapy.
 """
 
